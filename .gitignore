@@ -1,0 +1,23 @@
+# Ignore model and data files
+*.pkl
+*.joblib
+*.h5
+*.csv
+*.xlsx
+*.npy
+*.npz
+
+# Ignore data and model folders if used
+data/
+models/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+
+# Python cache and virtual environments
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+ENV/
