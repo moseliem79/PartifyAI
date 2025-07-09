@@ -7,12 +7,6 @@
 *.npy
 *.npz
 
-# Ignore data and model folders if used
-data/
-models/
-outputs/
-__pycache__/
-.ipynb_checkpoints/
 
 # Python cache and virtual environments
 *.pyc
